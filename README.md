@@ -6,3 +6,4 @@ Members:
 - Akkeem Tyrell
 - Isaiah Liverpool
 - Boris Onyekaba
+- Arianna Luis 
