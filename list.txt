@@ -1,10 +1,24 @@
+# Add directories/files in the current directory to the staging area
 git add .
+
+# Commit staged directories/files to the current branch with a message
 git commit -m "message"
+
+# Push committed changes to the specified branch on the remote repository
 git push origin <branch-name>
 
+# Get a history of commits and updates
 git log
+
+# Display the status of the working directory and staging area.
+# Green represents files that have been added to the staging area, red means files are modified but not yet staged
 git status
+
+# Create and switch to a new branch
 git checkout -b <branch-name>
+
+# Switch to an existing branch
 git checkout <branch>
 
+# Fetch and merge changes from the remote repository to the current branch
 git pull
