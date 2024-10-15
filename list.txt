@@ -1,4 +1,4 @@
-# Add directories/files in the current directory to the staging area
+ # Add directories/files in the current directory to the staging area
 git add .
 
 # Commit staged directories/files to the current branch with a message
