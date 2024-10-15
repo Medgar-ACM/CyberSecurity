@@ -1,7 +1,7 @@
 # CyberSecurity
 Repository for CyberSecurity Focus Group within the Medgar Evers ACM Club
 
-##Members: 
+Members: 
 - Julian Bradshaw
 - Akkeem Tyrell
 - Isaiah Liverpool
